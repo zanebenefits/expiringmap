@@ -14,10 +14,10 @@
 -docencoding
 'UTF-8'
 -doctitle
-'ExpiringMap 0.4.1-SNAPSHOT API'
+'ExpiringMap 0.4.2-SNAPSHOT API'
 -linkoffline
 'http://docs.oracle.com/javase/6/docs/api' '/Users/jonathan/dev/expiringmap/target/javadoc-bundle-options'
 -use
 -version
 -windowtitle
-'ExpiringMap 0.4.1-SNAPSHOT API'
+'ExpiringMap 0.4.2-SNAPSHOT API'
